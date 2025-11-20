@@ -1,2 +1,1 @@
-# Notepad-with-Python
-This is a python script for a notepad. Every computer contains a text editor. This one just looks like the windows notepad. But it's easy to use.
+Hello everyone! You have definitely used a notepad in your computer. For example, windows notepad. This one is just like that. But it's easy to use and made with python. You can open any text file or any script with it and also you can edit any file. It supports scripts and text documents. You can use it if you want a notepad other than the original one in your computer or you are bored with the original one. Thanks!
